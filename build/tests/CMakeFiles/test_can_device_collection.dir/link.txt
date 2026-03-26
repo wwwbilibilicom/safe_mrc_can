@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_can_device_collection.dir/link.d CMakeFiles/test_can_device_collection.dir/test_can_device_collection.cpp.o -o test_can_device_collection  ../libsafemrc_can.a /usr/lib/aarch64-linux-gnu/libgtest_main.a -lpthread /usr/lib/aarch64-linux-gnu/libgtest.a

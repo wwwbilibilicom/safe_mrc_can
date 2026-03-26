@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_mrc_protocol.dir/link.d CMakeFiles/test_mrc_protocol.dir/test_mrc_protocol.cpp.o -o test_mrc_protocol  ../libsafemrc_can.a /usr/lib/aarch64-linux-gnu/libgtest_main.a -lpthread /usr/lib/aarch64-linux-gnu/libgtest.a

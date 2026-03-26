@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsafemrc_can.a CMakeFiles/safemrc_can.dir/src/safemrc/can/can_socket.cpp.o CMakeFiles/safemrc_can.dir/src/safemrc/can/can_device_collection.cpp.o CMakeFiles/safemrc_can.dir/src/safemrc/mrc/mrc_protocol.cpp.o CMakeFiles/safemrc_can.dir/src/safemrc/mrc/mrc_state.cpp.o CMakeFiles/safemrc_can.dir/src/safemrc/mrc/mrc_device.cpp.o CMakeFiles/safemrc_can.dir/src/safemrc/safemrc.cpp.o
-/usr/bin/ranlib libsafemrc_can.a

@@ -1,9 +1,0 @@
-prefix=/usr/local
-libdir=${prefix}/lib
-includedir=${prefix}/include
-
-Name: safemrc-can
-Description: SafeMRC CAN driver library
-Version: 0.1.0
-Libs: -L${libdir} -lsafemrc_can
-Cflags: -I${includedir}
