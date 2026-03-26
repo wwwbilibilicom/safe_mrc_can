@@ -1,0 +1,9 @@
+[build-system]
+build-backend = "scikit_build_core.build"
+requires = ["scikit-build-core", "nanobind"]
+
+[project]
+name = "safemrc_can"
+version = "0.1.0"
+requires-python = ">= 3.10"
+license = {text = "Apache-2.0"}
