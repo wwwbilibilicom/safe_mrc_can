@@ -9,7 +9,9 @@
       "Bash(apt list:*)",
       "Bash(ctest:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(sudo modprobe:*)",
+      "Bash(sudo ip:*)"
     ]
   }
 }
