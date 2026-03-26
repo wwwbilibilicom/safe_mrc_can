@@ -1,0 +1,107 @@
+Start testing: Mar 26 20:58 CST
+----------------------------------------------------------
+1/4 Testing: test_mrc_protocol
+1/4 Test: test_mrc_protocol
+Command: "/home/wenbo-li/lab_dev/safe-mrc-can/build/tests/test_mrc_protocol"
+Directory: /home/wenbo-li/lab_dev/safe-mrc-can/build/tests
+"test_mrc_protocol" start time: Mar 26 20:58 CST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Stub
+[ RUN      ] Stub.Placeholder
+[       OK ] Stub.Placeholder (0 ms)
+[----------] 1 test from Stub (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrc_protocol" end time: Mar 26 20:58 CST
+"test_mrc_protocol" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: test_mrc_state
+2/4 Test: test_mrc_state
+Command: "/home/wenbo-li/lab_dev/safe-mrc-can/build/tests/test_mrc_state"
+Directory: /home/wenbo-li/lab_dev/safe-mrc-can/build/tests
+"test_mrc_state" start time: Mar 26 20:58 CST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Stub
+[ RUN      ] Stub.Placeholder
+[       OK ] Stub.Placeholder (0 ms)
+[----------] 1 test from Stub (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_mrc_state" end time: Mar 26 20:58 CST
+"test_mrc_state" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: test_can_device_collection
+3/4 Test: test_can_device_collection
+Command: "/home/wenbo-li/lab_dev/safe-mrc-can/build/tests/test_can_device_collection"
+Directory: /home/wenbo-li/lab_dev/safe-mrc-can/build/tests
+"test_can_device_collection" start time: Mar 26 20:58 CST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Stub
+[ RUN      ] Stub.Placeholder
+[       OK ] Stub.Placeholder (0 ms)
+[----------] 1 test from Stub (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_can_device_collection" end time: Mar 26 20:58 CST
+"test_can_device_collection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: test_integration
+4/4 Test: test_integration
+Command: "/home/wenbo-li/lab_dev/safe-mrc-can/build/tests/test_integration"
+Directory: /home/wenbo-li/lab_dev/safe-mrc-can/build/tests
+"test_integration" start time: Mar 26 20:58 CST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Stub
+[ RUN      ] Stub.Placeholder
+[       OK ] Stub.Placeholder (0 ms)
+[----------] 1 test from Stub (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_integration" end time: Mar 26 20:58 CST
+"test_integration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 26 20:58 CST

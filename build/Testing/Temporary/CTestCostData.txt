@@ -1,0 +1,5 @@
+test_mrc_protocol 1 0.00351204
+test_mrc_state 1 0.00239031
+test_can_device_collection 1 0.00343432
+test_integration 1 0.0026958
+---

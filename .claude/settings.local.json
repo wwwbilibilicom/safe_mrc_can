@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p build)",
+      "Bash(cmake .. -DBUILD_TESTING=ON)",
+      "Bash(dpkg -l)",
+      "Read(//usr/lib/**)",
+      "Read(//usr/include/**)",
+      "Bash(apt list:*)",
+      "Bash(ctest:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
