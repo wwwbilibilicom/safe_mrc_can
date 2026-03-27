@@ -22,7 +22,7 @@ int main(int argc, char* argv[]) {
         printf("Setting FIX_LIMIT mode at 2.0 A\n");
         for (int i = 0; i < 100; ++i) {
             mrc.set_fix_limit(1, 2.0);
-            std::this_thread::sleep_for(std::chrono::milliseconds(1));
+            std::this_thread::sleep_for(std::chrono::milliseconds(1000));
 
             auto& s = mrc.device_state(1);
             if (!s.is_stale()) {
